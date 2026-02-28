@@ -1,5 +1,5 @@
 # Assignment_2_vcc
-VCC Practice assignmemt.
+VCC Practice assignmemt + conflict
 
 This project was created as part of VCC Assignment 2.  
 The goal of this repository is to practice:
